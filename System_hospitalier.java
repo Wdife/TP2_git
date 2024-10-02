@@ -37,10 +37,11 @@ public class System_hospitalier {
         
         return "requête analysée";
     }
+// cette fonction prend en paramettre 'requete' et retourne une chaine de caractère 
 
     private String comparerDonnes() {
         
         return "Cluster trouvé";
     }
-
+// cette fonction renvoie une chaine de caractere sans effectuer de calcul 
 }
